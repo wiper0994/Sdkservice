@@ -358,12 +358,12 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;&nbsp;&nbsp;</font> </div>
+                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
                 </td>
          
               </tr>
@@ -396,12 +396,12 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;&nbsp;&nbsp;</font> </div>
+                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
                 </td>
          
               </tr>
@@ -434,12 +434,12 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;&nbsp;&nbsp;</font> </div>
+                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
                 </td>
          
               </tr>
