@@ -80,7 +80,7 @@ Menú de Servicios a Estudiantes ============================
                       </font> 
 
                       <font color="#CCCCCC">4. 
-                      Consulta Horario de Examenes 2018-2</a></b><br>
+                      Consulta Horario de Examenes 2019-1</a></b><br>
                       </font> 
 
                       <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="SeleccionPeriodo">5. 

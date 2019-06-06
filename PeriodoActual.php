@@ -79,57 +79,62 @@ function openPop(pagename){
         </tr>   
  
         <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
+            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
+            PROYECTOS II Gr - 1</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">38</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">46</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">43</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">43</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
         </tr>
  
         <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
+            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
+            NEGOCIOS INTERNACIONALES II Gr - 1</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">36</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">38</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">37</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">37</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
         </tr>  
  
         <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
+            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
+            DERECHO ECONOMICO INTERNACIONAL Gr - 1</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3.00</font></div></td>
+        </tr>
+
+        <tr>
+            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
+            LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr - 1</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
         </tr>
 
         <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
+            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
+            MARKETING INTERNACIONAL Gr - 1</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">37</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
-        </tr>
-
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
         </tr>
         

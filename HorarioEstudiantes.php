@@ -495,7 +495,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(304-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(304-S)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -505,7 +505,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(502-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(502-S)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -533,7 +533,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(304-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(304-S)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -543,7 +543,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(502-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(502-S)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
