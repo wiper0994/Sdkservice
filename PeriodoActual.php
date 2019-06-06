@@ -139,6 +139,10 @@ function openPop(pagename){
         </tr>
         
     </tbody></table> 
+    <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+                    Promedio del Periodo 2019-1: 4.06<br>
+                    Promedio Acumulado Total: 3.97
+          </font></div>
  
 </div>
 

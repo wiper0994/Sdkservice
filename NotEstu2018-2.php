@@ -66,65 +66,69 @@ function openPop(pagename){
 
     <table width="90%" border="1" align="center" bordercolor="#1E5E1E">
         <tbody><tr bgcolor="#1E5E1E">
-            <td width="50%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Asignatura</b></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Primer 40%</b></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>60% Final</b></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Nota Calculada</b></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Nota Oficial</b></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Estado</b></font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Créditos</b></font></div></td>
-            <td width="8%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Horas Semanales</b></font></div></td>
-        </tr>   
- 
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GESTION DE TALENTO HUMANO  Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">38</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Periodo</b></font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Código</b></font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Nombre</b></font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Grp</b></font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Nota</b></font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Clave</b></font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Créditos</b></font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Horas/semanales</b></font></div></td>
         </tr>  
  
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GERENCIA ESTRATEGICA INTERNACIONAL Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">42</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
-        </tr>  
- 
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PROYECTOS I Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">42</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
-        </tr>  
- 
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INGLES ESPECIALIZADO II Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
-        </tr>  
         
+        <tr>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2018-2</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">48032</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GESTION DE TALENTO HUMANO</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
+        </tr>
+
+        <tr>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2018-2</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">24504</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">METODOLOGIA DE LA INVESTIGACION</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
+        </tr>
+
+        <tr>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2018-2</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45023</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PROYECTOS I</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
+        </tr>
+
+        <tr>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2018-2</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">76081</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INGLES ESPECIALIZADO II</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
+            <td><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
+        </tr>
+
+           
     </tbody></table> 
-    <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-                    Promedio del Periodo 2018-2: 4.05<br>
+    </tbody></table>                    
+
+         <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+                    Promedio del Periodo 2018-2: 4.02<br>
                     Promedio Acumulado Total: 3.96
-          </font></div>                                      
+          </font></div>                   
  
 </div>
 
