@@ -39,13 +39,13 @@ function openPop(pagename){
       <table width="80%" border="1" align="center">
         <tbody><tr> 
           <td height="6"> 
-              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 8
+              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 9
           </td>
         </tr>
         <tr> 
           <td height="6"> 
               Programa: Administracion de Negocios Internacionales Plan 1013 &nbsp;&nbsp; Estado: Estudiante regular &nbsp;&nbsp; 
-              CargaMax: 5
+              CargaMax: 4
           </td>
         </tr> 
       </tbody></table>
@@ -139,7 +139,7 @@ function openPop(pagename){
 <td> &nbsp;</td>
 <td align="center"><b><a href="JavaScript:openPop(44023)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">44023</font></a></b></td>
 <td align="center"><b><a href="JavaScript:openPop(45023)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">45023</font></a></b></td>
-<td align="center"><b><a href="JavaScript:openPop(46023)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#3366FF">46023</font></a></b></td>
+<td align="center"><b><a href="JavaScript:openPop(46023)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">46023</font></a></b></td>
 <td align="center"><b><a href="JavaScript:openPop(9030)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#000000">M9030</font></a></b></td>
 </tr><tr>
 <td> &nbsp;</td>
@@ -159,8 +159,8 @@ function openPop(pagename){
 <td> &nbsp;</td>
 <td align="center"><b><a href="JavaScript:openPop(55022)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">55022</font></a></b></td>
 <td align="center"><b><a href="JavaScript:openPop(57022)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">57022</font></a></b></td>
-<td align="center"><b><a href="JavaScript:openPop(24504)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#3366FF">24504</font></a></b></td>
-<td align="center"><b><a href="JavaScript:openPop(70052)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#000000">70052</font></a></b></td>
+<td align="center"><b><a href="JavaScript:openPop(24504)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">24504</font></a></b></td>
+<td align="center"><b><a href="JavaScript:openPop(70052)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#3366FF">70052</font></a></b></td>
 </tr><tr>
 <td> &nbsp;</td>
 <td> &nbsp;</td>
@@ -169,8 +169,8 @@ function openPop(pagename){
 <td> &nbsp;</td>
 <td> &nbsp;</td>
 <td align="center"><b><a href="JavaScript:openPop(47042)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">47042</font></a></b></td>
-<td align="center"><b><a href="JavaScript:openPop(48026)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#3366FF">48026</font></a></b></td>
-<td align="center"><b><a href="JavaScript:openPop(70092)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#000000">70092</font></a></b></td>
+<td align="center"><b><a href="JavaScript:openPop(48026)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">48026</font></a></b></td>
+<td align="center"><b><a href="JavaScript:openPop(70092)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#3366FF">70092</font></a></b></td>
 </tr><tr>
 <td> &nbsp;</td>
 <td> &nbsp;</td>
@@ -179,7 +179,7 @@ function openPop(pagename){
 <td> &nbsp;</td>
 <td> &nbsp;</td>
 <td> &nbsp;</td>
-<td align="center"><b><a href="JavaScript:openPop(48025)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#3366FF">48025</font></a></b></td>
+<td align="center"><b><a href="JavaScript:openPop(48025)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">48025</font></a></b></td>
 <td align="center"><b><a href="JavaScript:openPop(49024)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">49024</font></a></b></td>
 </tr><tr>
 <td> &nbsp;</td>
@@ -189,7 +189,7 @@ function openPop(pagename){
 <td align="center"><b><a href="JavaScript:openPop(21608)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">21608</font></a></b></td>
 <td> &nbsp;</td>
 <td> &nbsp;</td>
-<td align="center"><b><a href="JavaScript:openPop(47026)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#3366FF">47026</font></a></b></td>
+<td align="center"><b><a href="JavaScript:openPop(47026)"> <font face="Arial, Helvetica, sans-serif" size="1" color="#009933">47026</font></a></b></td>
 <td>&nbsp;</td>
 </tr><tr>
 <td> &nbsp;</td>

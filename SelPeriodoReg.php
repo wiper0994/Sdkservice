@@ -55,7 +55,7 @@ function openPop(pagename){
         <tr> 
           <td height="6"> 
               Programa: Administracion de Negocios Internacionales Plan 1013 &nbsp;&nbsp; Estado: Estudiante regular &nbsp;&nbsp; 
-              CargaMax: 5
+              CargaMax: 4
           </td>
         </tr> 
       </tbody></table>
@@ -82,7 +82,7 @@ function openPop(pagename){
             <select name="slper" size="1" align="center">
               <option value="null">Seleccione</option>
 
-                          <option value="2019-1">2019-1</option>
+                          <option value="2019-2">2019-2</option>
 
             </select>
             

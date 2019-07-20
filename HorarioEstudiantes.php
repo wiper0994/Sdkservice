@@ -48,13 +48,13 @@ function openPop(pagename){
       <table width="80%" border="1" align="center">
         <tbody><tr> 
           <td height="6"> 
-              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 8 
+              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 9 
           </td>
         </tr>
         <tr> 
           <td height="6"> 
               Programa: Administracion de Negocios Internacionales Plan 1013 &nbsp;&nbsp; Estado: Estudiante regular &nbsp;&nbsp; 
-              CargaMax: 5
+              CargaMax: 4
           </td>
         </tr> 
       </tbody></table>
@@ -65,7 +65,8 @@ function openPop(pagename){
 
 
 <table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
+  <tbody>
+    <tr> 
     <td width="5%">&nbsp; </td>
     <td width="15%">                  
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b>Codigo</b></font></div>
@@ -98,16 +99,16 @@ function openPop(pagename){
     </td>
     <td width="15%">                  
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        46023</b></font>
+        70052</b></font>
       </div>
     </td>
     <td width="40%"> 
       <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        PROYECTOS II</b></font></div>
+        GEOPOLÍTICA Y RELACIONES INTERNACIONALES</b></font></div>
     </td>
     <td width="15%"> 
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        1</b></font></div>
+        51</b></font></div>
     </td>
     <td width="13%"> 
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
@@ -118,117 +119,38 @@ function openPop(pagename){
         4</b></font></div>
     </td>
 
-  </tr><tr> 
+    </tr><tr> 
     <td width="5%"> 
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
         2</b></font></div>
     </td>
     <td width="15%">                  
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        24504</b></font>
+        70092</b></font>
       </div>
     </td>
     <td width="40%"> 
       <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        NEGOCIOS INTERNACIONALES II</b></font></div>
+        PRACTICA EMPRESARIAL</b></font></div>
     </td>
     <td width="15%"> 
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        1</b></font></div>
+        </b></font></div>
     </td>
     <td width="13%"> 
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        4.00</b></font></div>
+        </b></font></div>
     </td>
     <td width="12%"> 
       <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        4</b></font></div>
+        </b></font></div>
     </td>
 
-  </tr><tr> 
-    <td width="5%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        3</b></font></div>
-    </td>
-    <td width="15%">                  
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        48026</b></font>
-      </div>
-    </td>
-    <td width="40%"> 
-      <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        DERECHO ECONOMICO INTERNACIONAL</b></font></div>
-    </td>
-    <td width="15%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        1</b></font></div>
-    </td>
-    <td width="13%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        3.00</b></font></div>
-    </td>
-    <td width="12%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        3</b></font></div>
-    </td>
 
-</tr><tr> 
-    <td width="5%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        4</b></font></div>
-    </td>
-    <td width="15%">                  
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        48025</b></font>
-      </div>
-    </td>
-    <td width="40%"> 
-      <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        LOGISTICA Y DISTRIBUCION F INTERNACIONAL</b></font></div>
-    </td>
-    <td width="15%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        1</b></font></div>
-    </td>
-    <td width="13%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        4.00</b></font></div>
-    </td>
-    <td width="12%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        4</b></font></div>
-    </td>   
-
-  </td><tr> 
-    <td width="5%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        5</b></font></div>
-    </td>
-    <td width="15%">                  
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        47026</b></font>
-      </div>
-    </td>
-    <td width="40%"> 
-      <div align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        MARKETING INTERNACIONAL</b></font></div>
-    </td>
-    <td width="15%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        1</b></font></div>
-    </td>
-    <td width="13%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        4.00</b></font></div>
-    </td>
-    <td width="12%"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><b> 
-        4</b></font></div>
-    </td>
-
- </tr></tbody></table>
+  </tr>
+  </tbody></table>
           
-
+<br>
             <table width="98%" border="1" bordercolor="#1E5E1E">
               <tbody><tr bgcolor="#1E5E1E"> 
                 <td width="14%"> 
@@ -338,17 +260,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;MARKETING INTERNACIONAL Gr 1 <br>(408)&nbsp;&nbsp;</font> </div>
-                </td>
-         
-                <td valign="center"> 
-                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
                     &nbsp;&nbsp;&nbsp;</font> </div>
-                </td>
-         
-                <td valign="center"> 
-                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;MARKETING INTERNACIONAL Gr 1 <br>(503)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -363,7 +275,17 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
+                </td>
+         
+                <td valign="center"> 
+                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
+                    &nbsp;&nbsp;&nbsp;</font> </div>
+                </td>
+         
+                <td valign="center"> 
+                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
               </tr>
@@ -376,22 +298,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;MARKETING INTERNACIONAL Gr 1<br>(408)&nbsp;&nbsp;</font> </div>
-                </td>
-         
-                <td valign="center"> 
-                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;NEGOCIOS INTERNACIONALES II Gr 1<br>(PEND)&nbsp;&nbsp;</font> </div>
-                </td>
-         
-                <td valign="center"> 
-                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;MARKETING INTERNACIONAL Gr 1<br>(503)&nbsp;&nbsp;</font> </div>
-                </td>
-         
-                <td valign="center"> 
-                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;NEGOCIOS INTERNACIONALES II Gr 1<br>(PEND)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -401,7 +308,22 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
+                </td>
+         
+                <td valign="center"> 
+                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
+                    &nbsp;&nbsp;&nbsp;</font> </div>
+                </td>
+         
+                <td valign="center"> 
+                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
+                    &nbsp;&nbsp;&nbsp;</font> </div>
+                </td>
+         
+                <td valign="center"> 
+                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
               </tr>
@@ -419,7 +341,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;NEGOCIOS INTERNACIONALES II Gr 1<br>(PEND)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -429,7 +351,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;NEGOCIOS INTERNACIONALES II Gr 1<br>(PEND)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -439,7 +361,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;DERECHO ECONOMICO INTERNACIONA Gr 1 <br>(401-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
               </tr>
@@ -452,7 +374,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;PROYECTOS II Gr 1 <br>(505)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -490,12 +412,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;PROYECTOS II Gr 1 <br>(505)&nbsp;&nbsp;</font> </div>
-                </td>
-         
-                <td valign="center"> 
-                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(304-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -505,7 +422,12 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(502-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
+                </td>
+         
+                <td valign="center"> 
+                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -528,12 +450,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;PROYECTOS II Gr 1 <br>(505)&nbsp;&nbsp;</font> </div>
-                </td>
-         
-                <td valign="center"> 
-                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(304-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -543,7 +460,12 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr 1 <br>(502-S)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
+                </td>
+         
+                <td valign="center"> 
+                  <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -566,7 +488,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;PROYECTOS II Gr 1 <br>(505)&nbsp;&nbsp;</font> </div>
+                    &nbsp;&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -875,7 +797,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;&nbsp;&nbsp;</font> </div>
+                    &nbsp;GEOPOLÍTICA Y RELACIONES INTERNACIONALES<br>(PEND)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -885,7 +807,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;&nbsp;&nbsp;</font> </div>
+                    &nbsp;GEOPOLÍTICA Y RELACIONES INTERNACIONALES<br>(PEND)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -913,7 +835,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;&nbsp;&nbsp;</font> </div>
+                    &nbsp;GEOPOLÍTICA Y RELACIONES INTERNACIONALES<br>(PEND)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 
@@ -923,7 +845,7 @@ function openPop(pagename){
          
                 <td valign="center"> 
                   <div align="center"><font face="Verdana, Arial, Helvetica,sans-serif" size="1"> 
-                    &nbsp;&nbsp;&nbsp;</font> </div>
+                    &nbsp;GEOPOLÍTICA Y RELACIONES INTERNACIONALES<br>(PEND)&nbsp;&nbsp;</font> </div>
                 </td>
          
                 <td valign="center"> 

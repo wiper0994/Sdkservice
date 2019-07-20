@@ -46,13 +46,13 @@ Menú de Servicios a Estudiantes ============================
       <table width="80%" border="1" align="center">
         <tbody><tr> 
           <td height="6"> 
-              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 8
+              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 9
           </td>
         </tr>
         <tr> 
           <td height="6"> 
               Programa: Administracion de Negocios Internacionales Plan 1013 &nbsp;&nbsp; Estado: Estudiante regular &nbsp;&nbsp; 
-              CargaMax: 5
+              CargaMax: 4
           </td>
         </tr> 
       </tbody></table>
@@ -72,7 +72,7 @@ Menú de Servicios a Estudiantes ============================
     <td width="53%"> 
 
                       <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="HorarioEstudiantes">2. 
-                      Consulta Horario de Clases 2019-1</a></b><br>
+                      Consulta Horario de Clases 2019-2</a></b><br>
                       </font> 
 
                       <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="SelPeriodoReg">3. 
@@ -98,10 +98,11 @@ Menú de Servicios a Estudiantes ============================
                       <font color="#CCCCCC">9. Preinscripción</font><br>
 
                       <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="DespActa">10. 
-                      Firma Acta Matrícula 2019-1</a></b><br>
+                      Firma Acta Matrícula 2019-2</a></b><br>
                       </font> 
 
-                      <font color="#CCCCCC">11. Elaboración de Horarios 2019-1</font>
+                      <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="DespActa">11. 
+                      Elaboración de Horarios 2019-2</font>
 
     </td>
   </tr>

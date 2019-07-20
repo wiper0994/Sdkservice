@@ -50,13 +50,13 @@ function openPop(pagename){
       <table width="80%" border="1" align="center">
         <tbody><tr> 
           <td height="6"> 
-              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 8
+              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 9
           </td>
         </tr>
         <tr> 
           <td height="6"> 
               Programa: Administracion de Negocios Internacionales Plan 1013 &nbsp;&nbsp; Estado: Estudiante regular &nbsp;&nbsp; 
-              CargaMax: 5
+              CargaMax: 4
           </td>
         </tr> 
       </tbody></table>
@@ -79,68 +79,23 @@ function openPop(pagename){
         </tr>   
  
         <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
-            PROYECTOS II Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">38</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">46</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">43</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">43</font></div></td>
+            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GEOPOLÍTICA Y RELACIONES INTERNACIONALES</font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
+            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
             <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
         </tr>
  
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
-            NEGOCIOS INTERNACIONALES II Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">36</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">38</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">37</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">37</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
-        </tr>  
  
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
-            DERECHO ECONOMICO INTERNACIONAL Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">45</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3.00</font></div></td>
-        </tr>
+ 
+  
 
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
-            LOGISTICA Y DISTRIBUCION F INTERNACIONAL Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">40</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
-        </tr>
-
-        <tr>
-            <td width="50%"><div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  
-            MARKETING INTERNACIONAL Gr - 1</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">37</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">41</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">39</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Normal</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4</font></div></td>
-            <td width="7%"><div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4.00</font></div></td>
-        </tr>
-        
     </tbody></table> 
     <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
-                    Promedio del Periodo 2019-1: 4.06<br>
+                    Promedio del Periodo 2019-2:<br>
                     Promedio Acumulado Total: 3.97
           </font></div>
  

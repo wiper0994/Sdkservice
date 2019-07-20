@@ -48,13 +48,13 @@ function openPop(pagename){
       <table width="80%" border="1" align="center">
         <tbody><tr> 
           <td height="6"> 
-              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 8 
+              Código: 713161001 &nbsp;&nbsp;Estudiante: PULIDO PULIDO STEFANNY GISEL &nbsp;&nbsp; Semestre: 9
           </td>
         </tr>
         <tr> 
           <td height="6"> 
               Programa: Administracion de Negocios Internacionales Plan 1013 &nbsp;&nbsp; Estado: Estudiante regular &nbsp;&nbsp; 
-              CargaMax: 5
+              CargaMax: 4
           </td>
         </tr> 
       </tbody></table>

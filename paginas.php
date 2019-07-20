@@ -37,6 +37,10 @@
 			{
 				header('Location: NotEstu2018-2.php');
 			}
+			if($_POST['Periodo'] == "NotEstu2019-1")
+			{
+				header('Location: NotEstu2019-1.php');
+			}
 			if($_POST['Periodo'] == "PeriodoActual")
 			{
 				header('Location: PeriodoActual.php');
